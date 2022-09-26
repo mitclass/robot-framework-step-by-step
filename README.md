@@ -2,13 +2,16 @@
 
 ## Robot Framework Set Up test environment:
 
-### 1) Install Python, Check version: pip --version
+### 1) Install Python, 
+	#### Check version: 
+	pip --version
 ### 2) Install Pycharm IDE
 ### 3) Install selenium
-   Commands: pip install selenium 
-	     pip uninstall selenium
+   	#### Commands: 
+	pip install selenium 
+	pip uninstall selenium
 ### 4) Install Robot Framework
-	Commands: 	
+	### Commands: 	
 	pip install robotframework
 	pip install --upgrade robotframework
 	pip install robotframework==2.9.2
@@ -19,6 +22,6 @@
 
 ### 5) Install Robotframework Selenium Library
 
-   Commands:
+   	#### Commands:
 	pip install  robotframework-seleniumlibrary
 	pip uninstall  robotframework-seleniumlibrary
