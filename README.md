@@ -25,3 +25,6 @@
    	#### Commands:
 	pip install  robotframework-seleniumlibrary
 	pip uninstall  robotframework-seleniumlibrary
+
+
+### 6) Install plugin: IntelliBot@SeleniumLibrary Patched
